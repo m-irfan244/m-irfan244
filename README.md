@@ -14,6 +14,14 @@
   
  </p>
 
+<h1 align="center">Github Stats</h1>
+  <div align="center" >
+<!--   <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-irfan244&layout=compact">  -->
+<!-- <img width="30%" src="https://github-readme-stats.vercel.app/api?username=m-irfan244> -->
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=m-irfan244&theme=flag-pakistan"><img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=m-irfan244&">
+  </div>
+
+  
 ## 🔧 Technologies & 📖 Languages
 
 <div align="left">
