@@ -40,6 +40,7 @@
 <div/>
 <hr/>
 <a href="https://app.daily.dev/muhammadirfan"><img src="https://api.daily.dev/devcards/v2/kxNnLYEF38mhpZYIRHEKs.png?type=default&r=zu7" width="356" alt="Muhammad Irfan's Dev Card"/></a>
+  <hr/>
 ## About Me
 
 I'm a passionate🥇, creative🎨 and perceptive🔭 Javascript Engineer with a hands-on approach to problem-solving and an unending thirst for knowledge🎓.I'm always open to new ideas and opportunities.
