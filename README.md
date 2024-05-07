@@ -14,7 +14,7 @@
   
   
  </p>
-
+<a href="https://app.daily.dev/muhammadirfan"><img src="https://api.daily.dev/devcards/v2/kxNnLYEF38mhpZYIRHEKs.png?type=default&r=zu7" width="356" alt="Muhammad Irfan's Dev Card"/></a>
   
 ## 🔧 Technologies & 📖 Languages
 
